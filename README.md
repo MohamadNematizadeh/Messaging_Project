@@ -10,11 +10,13 @@
 ![Downloads](https://img.shields.io/github/downloads/MohamadNematizadeh/laravel_lobby/total) ![Contributors](https://img.shields.io/github/contributors/MohamadNematizadeh/laravel_lobby?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/MohamadNematizadeh/laravel_lobby?style=social) ![Issues](https://img.shields.io/github/issues/MohamadNematizadeh/laravel_lobby) 
 
 ## About The Project
-
+### There is a phone book in this project
 ![screen shot](public/img/2.png)
 
 
 front : Html , css  , botostart
+
 Backend : Laravel , php
+
 It has been tried to clean the code
 happy we with star and follow in linkedin , enjoy coding :)
