@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/MohamadNematizadeh/laravel_lobby" target="_blank">
+    <img src="https://github.com/MohamadNematizadeh/laravel_lobby/blob/main/public/img/1.png?raw=true" width="800">
+  </a>
   <h2 align="center"> Lobby Project</h2>
     <br/>
   </p>
