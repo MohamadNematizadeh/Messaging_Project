@@ -3,6 +3,8 @@
     <img src="https://github.com/MohamadNematizadeh/laravel_lobby/blob/main/public/img/1.png?raw=true" width="100">
   </a>
   <h2 align="center"> Lobby Project</h2>
+  <p align="center" ><img src = "https://skillicons.dev/icons?i=php,laravel,mysql,html , css ,bootstrap,javascript"></p>
+
     <br/>
   </p>
 </p>
